@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 💬 Ask me about **building companies from the ground up**
+- 💬 Ask me about **building companies and products from the ground up**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
