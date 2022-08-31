@@ -7,7 +7,7 @@
 * [The Future of Search is Semantic and Lexical](https://marcussorealheis.medium.com/the-future-of-search-is-semantic-and-lexical-e55cc9973b63)
 * [13 Hard Things I Do to be a Dope Database Product Manager](https://marcussorealheis.medium.com/13-hard-things-i-do-to-be-a-dope-database-product-manager-7064768505f8)
 * [A Cognitive Steeple Chase, and the Genius of the MongoDB Interface](https://marcussorealheis.medium.com/a-cognitive-steeple-chase-and-the-genius-of-the-mongodb-interface-f21a5680bcff)
-* [The SolarWinds Hack and My Apache SOLR Patch](https://marcussorealheis.medium.com/the-solarwinds-hack-and-solr-13649-a-patch-i-wrote-while-listening-to-gucci-mane-96c1b4b84525)
+* [The SolarWinds Hack and Patching Apache SOLR](https://marcussorealheis.medium.com/the-solarwinds-hack-and-solr-13649-a-patch-i-wrote-while-listening-to-gucci-mane-96c1b4b84525)
 
 <!-- BLOG-POST-LIST:END -->
 
