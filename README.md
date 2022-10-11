@@ -17,7 +17,3 @@
 <a href="https://linkedin.com/in/marcuseagan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcuseagan" height="30" width="40" /></a>
 <a href="https://medium.com/@marcussorealheis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@marcussorealheis" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcussorealheis&show_icons=true&locale=en&layout=compact" alt="marcussorealheis" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcussorealheis&show_icons=true&locale=en" alt="marcussorealheis" /></p>
