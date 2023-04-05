@@ -3,6 +3,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+* [Lift and Grift, the Managed Infrstructure Productivity Myth](https://marcussorealheis.medium.com/lift-and-grift-the-managed-saas-infrastructure-productivity-myth-580a8ad2f2db))
 * [A Basic Pattern for Continuous Delivery in a Cloud Database](https://marcussorealheis.medium.com/patterns-for-schema-cd-in-a-cloud-db-6abf30c6fbb8)
 * [The Future of Search is Semantic and Lexical](https://marcussorealheis.medium.com/the-future-of-search-is-semantic-and-lexical-e55cc9973b63)
 * [13 Hard Things I Do to be a Dope Database Product Manager](https://marcussorealheis.medium.com/13-hard-things-i-do-to-be-a-dope-database-product-manager-7064768505f8)
