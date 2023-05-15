@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcus Eagan</h1>
-<h5 align="center">I focus on open source developer tools, AI, search, databases, low-code, viz, and security. I want to help open source empower you!</h3>
+<h5 align="center">I focus on open source developer tools, especially databases. I want to help open source empower you!</h3>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
