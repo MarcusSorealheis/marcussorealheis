@@ -9,6 +9,7 @@
 * [13 Hard Things I Do to be a Dope Database Product Manager](https://marcussorealheis.medium.com/13-hard-things-i-do-to-be-a-dope-database-product-manager-7064768505f8)
 * [A Cognitive Steeple Chase, and the Genius of the MongoDB Interface](https://marcussorealheis.medium.com/a-cognitive-steeple-chase-and-the-genius-of-the-mongodb-interface-f21a5680bcff)
 * [The SolarWinds Hack and Patching Apache SOLR](https://marcussorealheis.medium.com/the-solarwinds-hack-and-solr-13649-a-patch-i-wrote-while-listening-to-gucci-mane-96c1b4b84525)
+* [How Amazon and MongoDB Collaborate to Unlock the Power of Apache Lucene](https://aws.amazon.com/blogs/opensource/how-aws-and-mongodb-collaborate-to-unlock-the-power-of-apache-lucene/)
 
 <!-- BLOG-POST-LIST:END -->
 
